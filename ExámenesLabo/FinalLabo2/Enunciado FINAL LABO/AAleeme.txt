@@ -1,0 +1,2 @@
+Upload your answers as two files, with the same names: amazon.pl and hitting.pl.
+Please do NOT upload any zips or other formats.
